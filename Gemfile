@@ -15,6 +15,8 @@ gem 'sass-rails', '>= 6'
 gem 'webpacker', '~> 4.0'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.7'
+# Nice forms
+gem 'simple_form', '~> 5.0.1'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
